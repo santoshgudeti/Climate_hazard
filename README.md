@@ -2,6 +2,10 @@
 
 A full-stack MVP that analyzes historical daily maximum temperatures and identifies heatwaves for a chosen city and year range.
 
+- **Live Deployed App**: [https://climate-hazard-k66s.onrender.com](https://climate-hazard-k66s.onrender.com)
+- **GitHub Repository**: [https://github.com/santoshgudeti/Climate_hazard](https://github.com/santoshgudeti/Climate_hazard)
+
+
 ## What it does
 
 - Searches cities using Open-Meteo geocoding.
